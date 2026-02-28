@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-mob",
-    "slug": "react-mob",
+    "name": "movie_app",
+    "slug": "movie_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "reactmob",
+    "scheme": "movies",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
